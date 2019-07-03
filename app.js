@@ -1,6 +1,13 @@
 // Make h1 in header have different text
+// var header = document.getElementById("head");
+// header.innerText = 'Newsies Fan Site';
+
 
 // Make nav ul li elements get larger when you hover over them
+// var list = document.querySelector(#li);
+// list.addEventListener("hover", function(){
+//     list.style.fontSize = '20px';
+// });
 
 // Add another element to the main element
 
